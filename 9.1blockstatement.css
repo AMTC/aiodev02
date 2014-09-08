@@ -1,0 +1,18 @@
+using System;
+ 
+namespace Block_statement
+{ //Begin Statement
+  class Program
+   { // Begin Statement
+     static void Main(string[] args)
+      { //Begin Statement
+        int num1,power;
+        num1 = 5;
+        power = num1 * num1;
+        Console.WriteLine(power);
+        Console.ReadLine();
+      } // End Statement
+   } // End Statement
+} // End Statement
+
+
